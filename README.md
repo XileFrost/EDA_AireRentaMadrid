@@ -3,12 +3,12 @@ Análisis de Datos Exploratorio (EDA), enero 2025
 
 
 Se asocian los países más desarrollados e industrializados con los más contaminantes a nivel mundial. Partiendo de esta premisa, en este EDA se quiere hacer una hipotética extrapolación local, a la ciudad en la que vivimos, Madrid, y **se quiere demostrar que en los distritos con rentas más altas de Madrid ciudad la calidad del aire es peor**. Asimismo, se plantean cuatros hipótesis adicionales: 
-- A mayor densidad de población, peor calidad del aire. 
+- A mayor densidad de población, peor es la calidad del aire. 
 - Los hábitos de movilidad de la población de un distrito pueden favorecer o perjudicar la calidad del aire. 
 - A mayor extensión de zonas verdes en el distrito, mejor calidad del aire. 
-- A mayor número de vehículos por habitante, peor calidad del aire. 
+- A mayor número de habitantes por vehículo en el distrito, mejor calidad del aire. 
 
-Para confirmar o negar mis hipótesis voy a valorar diferentes aspectos relacionados con la calidad del aire a partir de series de datos de diversa índole: 
+Para cotejar mis hipótesis voy a valorar diferentes aspectos relacionados con la calidad del aire a partir de series de datos de diversa índole: 
 
 Datos con carácter geoposicional: 
 - Estaciones de medición de la calidad del aire en Madrid ciudad en 2023. 
