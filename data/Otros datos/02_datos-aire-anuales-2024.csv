@@ -1,0 +1,63 @@
+﻿Zona;Estación;Magnitud;Concentraciones máximas horarias;Concentraciones medias anuales
+Zona 01 (Interior M-30);Barrio del Pilar;Dióxido de nitrógeno;161;25
+Zona 01 (Interior M-30);Barrio del Pilar;Ozono;208;57
+Zona 01 (Interior M-30);Castellana;Dióxido de nitrógeno;120;22
+Zona 01 (Interior M-30);Castellana;Partículas en suspensión < 10µm;177;20
+Zona 01 (Interior M-30);Castellana;Partículas en suspensión < 2,5µm;57;10
+Zona 01 (Interior M-30);Cuatro Caminos;Dióxido de nitrógeno;162;26
+Zona 01 (Interior M-30);Cuatro Caminos;Partículas en suspensión < 10µm;226;19
+Zona 01 (Interior M-30);Cuatro Caminos;Partículas en suspensión < 2,5µm;55;9
+Zona 01 (Interior M-30);Escuelas Aguirre;Dióxido de azufre;14;3
+Zona 01 (Interior M-30);Escuelas Aguirre;Dióxido de nitrógeno;145;28
+Zona 01 (Interior M-30);Escuelas Aguirre;Ozono;174;55
+Zona 01 (Interior M-30);Escuelas Aguirre;Partículas en suspensión < 10µm;239;22
+Zona 01 (Interior M-30);Escuelas Aguirre;Partículas en suspensión < 2,5µm;71;10
+Zona 01 (Interior M-30);Méndez Álvaro;Dióxido de nitrógeno;127;20
+Zona 01 (Interior M-30);Méndez Álvaro;Partículas en suspensión < 10µm;146;17
+Zona 01 (Interior M-30);Méndez Álvaro;Partículas en suspensión < 2,5µm;45;8
+Zona 01 (Interior M-30);Plaza de Castilla;Dióxido de nitrógeno;130;25
+Zona 01 (Interior M-30);Plaza de Castilla;Partículas en suspensión < 10µm;218;19
+Zona 01 (Interior M-30);Plaza de Castilla;Partículas en suspensión < 2,5µm;59;9
+Zona 01 (Interior M-30);Plaza de España;Dióxido de azufre;13;2
+Zona 01 (Interior M-30);Plaza de España;Dióxido de nitrógeno;124;24
+Zona 01 (Interior M-30);Plaza del Carmen;Dióxido de azufre;9;3
+Zona 01 (Interior M-30);Plaza del Carmen;Dióxido de nitrógeno;156;25
+Zona 01 (Interior M-30);Plaza del Carmen;Ozono;180;56
+Zona 01 (Interior M-30);Ramón y Cajal;Dióxido de nitrógeno;158;27
+Zona 01 (Interior M-30);Retiro;Dióxido de nitrógeno;85;15
+Zona 01 (Interior M-30);Retiro;Ozono;188;58
+Zona 02 (Sureste);Ensanche de Vallecas;Dióxido de nitrógeno;152;26
+Zona 02 (Sureste);Ensanche de Vallecas;Ozono;193;56
+Zona 02 (Sureste);Moratalaz;Dióxido de azufre;12;2
+Zona 02 (Sureste);Moratalaz;Dióxido de nitrógeno;116;26
+Zona 02 (Sureste);Moratalaz;Partículas en suspensión < 10µm;264;21
+Zona 02 (Sureste);Vallecas;Dióxido de nitrógeno;131;28
+Zona 02 (Sureste);Vallecas;Partículas en suspensión < 10µm;290;21
+Zona 03 (Noreste);Arturo Soria;Dióxido de nitrógeno;111;20
+Zona 03 (Noreste);Arturo Soria;Ozono;189;56
+Zona 03 (Noreste);Barajas Pueblo;Dióxido de nitrógeno;117;28
+Zona 03 (Noreste);Barajas Pueblo;Ozono;200;53
+Zona 03 (Noreste);Juan Carlos I;Dióxido de nitrógeno;114;20
+Zona 03 (Noreste);Juan Carlos I;Ozono;202;60
+Zona 03 (Noreste);Sanchinarro;Dióxido de nitrógeno;140;20
+Zona 03 (Noreste);Sanchinarro;Partículas en suspensión < 10µm;173;15
+Zona 03 (Noreste);Sanchinarro;Partículas en suspensión < 2,5µm;50;8
+Zona 03 (Noreste);Tres Olivos;Dióxido de nitrógeno;98;20
+Zona 03 (Noreste);Tres Olivos;Ozono;187;62
+Zona 03 (Noreste);Tres Olivos;Partículas en suspensión < 10µm;261;18
+Zona 03 (Noreste);Urbanización Embajada;Dióxido de nitrógeno;121;18
+Zona 03 (Noreste);Urbanización Embajada;Partículas en suspensión < 10µm;180;21
+Zona 04 (Noroeste);Casa de Campo;Dióxido de nitrógeno;104;15
+Zona 04 (Noroeste);Casa de Campo;Ozono;190;63
+Zona 04 (Noroeste);Casa de Campo;Partículas en suspensión < 10µm;188;14
+Zona 04 (Noroeste);Casa de Campo;Partículas en suspensión < 2,5µm;40;6
+Zona 04 (Noroeste);El Pardo;Dióxido de nitrógeno;81;11
+Zona 04 (Noroeste);El Pardo;Ozono;197;56
+Zona 05 (Suroeste);Farolillo;Dióxido de nitrógeno;129;26
+Zona 05 (Suroeste);Farolillo;Ozono;185;55
+Zona 05 (Suroeste);Farolillo;Partículas en suspensión < 10µm;230;25
+Zona 05 (Suroeste);Plaza Elíptica;Dióxido de nitrógeno;159;31
+Zona 05 (Suroeste);Plaza Elíptica;Partículas en suspensión < 10µm;145;18
+Zona 05 (Suroeste);Plaza Elíptica;Partículas en suspensión < 2,5µm;60;10
+Zona 05 (Suroeste);Villaverde;Dióxido de nitrógeno;141;29
+Zona 05 (Suroeste);Villaverde;Ozono;175;52

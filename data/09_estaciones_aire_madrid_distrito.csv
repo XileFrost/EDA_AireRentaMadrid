@@ -1,0 +1,25 @@
+COD_DISTRITO;DISTRITO;ESTACION;CODIGO;DIRECCION;NOM_TIPO
+1;Centro;Plaza de España;28079004;Plaza de España;Urbana tráfico
+3;Retiro;Escuelas Aguirre;28079008;Entre C/ Alcalá y C/ O’ Donell;Urbana tráfico
+5;Chamartín;Ramón y Cajal;28079011;Avda. Ramón y Cajal esq. C/ Príncipe de Vergara;Urbana tráfico
+15;Ciudad Lineal;Arturo Soria;28079016;C/ Arturo Soria esq. C/ Vizconde de los Asilos;Urbana fondo
+17;Villaverde;Villaverde;28079017;C/ Juan Peñalver;Urbana fondo
+11;Carabanchel;Farolillo;28079018;C/ Farolillo - C/ Ervigio;Urbana fondo
+9;Moncloa - Aravaca;Casa de Campo;28079024;Casa de Campo (Terminal del Teleférico);Suburbana
+21;Barajas;Barajas Pueblo;28079027;C/ Júpiter, 21;Urbana fondo
+1;Centro;Plaza del Carmen;28079035;Plaza del Carmen esq. Tres Cruces;Urbana fondo
+14;Moratalaz;Moratalaz;28079036;Avda. Moratalaz esq. Camino de los Vinateros;Urbana tráfico
+6;Tetuán;Cuatro Caminos;28079038;Avda. Pablo Iglesias esq. C/ Marqués de Lema;Urbana tráfico
+8;Fuencarral - El Pardo;Barrio del Pilar;28079039;Avda. Betanzos esq. C/ Monforte de Lemos;Urbana tráfico
+13;Puente de Vallecas;Vallecas;28079040;C/ Arroyo del Olivar esq. C/ Río Grande.;Urbana fondo
+2;Arganzuela;Méndez Álvaro;28079047;C/ Juan de Mariana / Plaza Amanecer Méndez Álvaro;Urbana fondo
+4;Salamanca;Castellana;28079048;C/ José Gutiérrez Abascal;Urbana tráfico
+3;Retiro;Parque del Retiro;28079049;Paseo Venezuela- Palacio de Velázquez;Urbana fondo
+5;Chamartín;Plaza Castilla;28079050;Plaza Castilla (Canal);Urbana tráfico
+18;Villa de Vallecas;Ensanche de Vallecas;28079054;Avda. La Gavia / Avda. Las Suertes;Urbana fondo
+21;Barajas;Urb. Embajada;28079055;C/ Riaño (Barajas);Urbana fondo
+12;Carabanchel;Plaza Elíptica;28079056;Plaza Elíptica - Avda. Oporto;Urbana tráfico
+16;Hortaleza;Sanchinarro;28079057;C/ Princesa de Éboli esq. C/ María Tudor;Urbana fondo
+8;Fuencarral - El Pardo;El Pardo;28079058;Avda. La Guardia;Suburbana
+21;Barajas;Juan Carlos I;28079059;Parque Juan Carlos I (frente oficinas mantenim...;Suburbana
+8;Fuencarral - El Pardo;Tres Olivos;28079060;Plaza Tres Olivos;Urbana fondo
