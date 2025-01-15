@@ -1,5 +1,6 @@
-# **EDA - "La Paradoja del Aire en Madrid Ciudad"**
+# **EDA - "LA PARADOJA DEL AIRE EN MADRID CIUDAD"**
 Análisis de Datos Exploratorio (EDA), enero 2025
+
 
 Se asocian los países más desarrollados e industrializados con los más contaminantes a nivel mundial. Partiendo de esta premisa, en este EDA se quiere hacer una hipotética extrapolación local, a la ciudad en la que vivimos, Madrid, y **se quiere demostrar que en los distritos con rentas más altas de Madrid ciudad la calidad del aire es peor**. Asimismo, se plantean cuatros hipótesis adicionales: 
 - A mayor densidad de población, peor calidad del aire. 
